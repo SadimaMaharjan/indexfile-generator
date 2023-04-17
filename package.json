@@ -1,0 +1,22 @@
+{
+  "name": "indexfile-generator",
+  "version": "1.0.0",
+  "description": "This app asks few questions to the user and prepares an index.html file with the responses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadimaMaharjan/indexfile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SadimaMaharjan/indexfile-generator/issues"
+  },
+  "homepage": "https://github.com/SadimaMaharjan/indexfile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
